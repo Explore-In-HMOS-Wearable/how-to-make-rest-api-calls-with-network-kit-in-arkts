@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.hmosdemos.wearable.how_to_make_rest_api_calls_with_network_kit_in_arkts",
+    "vendor": "hmosdemos",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "buildVersion": "1",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}
